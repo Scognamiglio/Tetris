@@ -1,0 +1,22 @@
+#tetris{
+	border: 1px black solid;
+	margin: 0 auto;
+}
+
+td{
+	border: 1px black solid;
+	width: 5em;
+	height: 5em;
+}
+
+.selected{
+	background-color: blue;
+}
+
+.fixe{
+	background-color: gray;
+}
+
+.die{
+	background-color: red;
+}
